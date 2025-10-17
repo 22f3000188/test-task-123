@@ -1,1 +1,29 @@
-# Hello World with Tailwind CSSA simple and elegant "Hello World" web page built with modern web development practices, leveraging the utility-first framework Tailwind CSS for a fully responsive design.## Features*   **Responsive Design**: Adapts beautifully to various screen sizes, from mobile phones to large desktop displays.*   **Tailwind CSS**: Styled entirely using Tailwind CSS, showcasing its powerful utility classes for rapid UI development.*   **Minimalist**: A clean and straightforward "Hello World" demonstration.## Getting StartedTo view this application, simply follow these steps:1.  **Save the file**: Save the provided `index.html` content into a file named `index.html` on your local machine.2.  **Open in browser**: Open the `index.html` file using any modern web browser (e.g., Chrome, Firefox, Safari, Edge).That's it! The page will load directly in your browser.## Technologies Used*   **HTML5**: For the basic structure of the web page.*   **Tailwind CSS**: For all styling and responsive design.## LicenseThis project is open source and available under the MIT License.
+# Responsive Page with Dark Mode
+
+This project provides a simple, fully responsive HTML page styled with Tailwind CSS, now enhanced with a dark mode toggle.
+
+## Features
+
+*   **Responsive Design**: Adapts seamlessly to various screen sizes (desktop, tablet, mobile).
+*   **Tailwind CSS**: Utilizes the utility-first CSS framework for efficient and maintainable styling.
+*   **Dark Mode Toggle**: Users can switch between light and dark themes with a simple button click. The preference is persisted in local storage.
+*   **Modern Aesthetics**: Clean and modern UI with clear typography and spacing.
+
+## How to Use
+
+To view this page, simply open the `index.html` file in your web browser. No special build steps or server are required as all CSS and JavaScript are included via CDN or inline.
+
+### Dark Mode
+
+Locate the sun/moon icon button in the top right corner of the header. Clicking this button will toggle the page's theme between light and dark mode. Your preference will be remembered for future visits to the page.
+
+## Technologies Used
+
+*   **HTML5**: For the page structure.
+*   **Tailwind CSS**: For all styling, including responsive breakpoints and dark mode variants.
+*   **JavaScript**: For the dark mode toggle logic.
+*   **Font Awesome**: For the sun and moon icons used in the dark mode toggle.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
